@@ -1,3 +1,4 @@
+
 @media (min-width: 700px) {
 	body {
 		background-color: red;
@@ -50,16 +51,4 @@ p::selection {
 h1 {
 	background-color: blue;
 	width: 50%;
-}
-#top {
-	font-size: 36px;
-}
-#middle {
-	font-size: 24px;
-}
-#bottom {
-	font-size: 12px;
-}
-.name {
-	font-weight: bold;
 }
